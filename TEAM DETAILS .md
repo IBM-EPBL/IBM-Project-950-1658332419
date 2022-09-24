@@ -1,7 +1,6 @@
 # IBM-Project-950-1658332419
 A Novel Method for Handwritten Digit Recognition System
 
-|--------------------------------------------------------|
 |Team ID : PNT2022TMID26041                              |
 |--------------------------------------------------------|
 | Team Leader : NIMMALAGADDA ESWAR                       |
@@ -11,7 +10,7 @@ A Novel Method for Handwritten Digit Recognition System
 | Team member : PALLAMPARTHI SUMANTH                     |
 |                                                        |
 | Team member : PALLAMPARTHI SAI JAGADISH                |
-|--------------------------------------------------------|
+
 
 ~ `Mentor Name - Kalaiarasi.D`
 
