@@ -10,22 +10,28 @@ Handwriting recognition is one of the compelling research works going on because
 # Technical Architecture:
 
 <img width="464" alt="image" src="https://user-images.githubusercontent.com/61909580/189519047-9d40f0d5-09d1-4b91-8294-5a4863e04466.png">
-
 # Tasks Completed
-- [x] requirements 
 - [x] Assignment 1
 - [x] Assignment 2
 - [x] Assignment 3
 - [x] Assignment 4
-- [x] Ideation Phase
-- [x] Project Design Phase 1
-- [x] Project Design Phase 2
-- [x] Project Planning Phase
+- [x] Project Design and Planning
+    - [x] Ideation Phase
+    - [x] Project Design Phase 1
+    - [x] Project Design Phase 2
+    - [x] Project Planning Phase
 - [x] Project Development Phase
+    - [x] Sprint 1
+    - [x] Sprint 2
+    - [x] Sprint 3
+    - [x] Sprint 4
+    - [x] Testing
 - [x] Final Deliverables
-- [x] Understanding the Data
-- [x] Model Building
-- [x] Application Building
-- [x] Train the Model on IBM
-- [x] Demo Video
-
+    - [x] Final Code
+    - [x] IBM Cloud Deployment
+    - [x] Project Demo
+    - [x] Project Report
+ - [x] Understanding the Data
+ - [x] Model Building
+ - [x] Application Building
+ - [x] Train the Model on IBM
